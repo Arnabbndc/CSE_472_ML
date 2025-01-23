@@ -44,7 +44,7 @@ Labels:
     - Use activation functions such as ReLU and Sigmoid.
 
 2. **Training the Model**:
-    - Compile the model with an appropriate loss function and optimizer.
+    - Compile the model with an appropriate loss function and optimizer (Adam Optimizer).
     - Train the model on the training dataset, using validation data to monitor performance.
 
 3. **Evaluation**:
