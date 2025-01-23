@@ -4,17 +4,6 @@
 
 This repository contains assignments for the CSE 472 Machine Learning course. Each assignment focuses on different machine learning techniques and algorithms, implemented using Python and Jupyter notebooks.
 
-## Directory Structure
-
-```plaintext
-CSE_472_ML/
-    1_Data_preprocessing/
-    2_Logistic Regression with Bagging and Stacking/
-    3_Feed-Forward Neural Network (FNN)/
-    4_PCA & EM Algorithm/
-    README.md
-```
-
 ## Assignments
 
 ### Assignment 1: Data Preprocessing
