@@ -36,7 +36,6 @@ This repository contains assignments for the CSE 472 Machine Learning course. Ea
 - **Network Architecture Design**: Designing the architecture of the FNN, including the number of layers, neurons, and activation functions (e.g., ReLU, Sigmoid).
 - **Model Training**: Compiling the model with appropriate loss functions and optimizers, and training it on the dataset while monitoring performance using validation data.
 - **Performance Evaluation**: Evaluating the model's performance using metrics such as accuracy, precision, recall, and F1-score.
-- **Model Saving**: Saving the best model configuration and weights for future use.
 
 ### Assignment 4: PCA & EM Algorithm
 
